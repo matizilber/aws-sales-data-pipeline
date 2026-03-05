@@ -1,0 +1,9 @@
+fecha,producto,categoria,precio,cantidad
+2026-01-01,Laptop,Electronica,1000,2
+2026-01-01,Mouse,Electronica,20,5
+2026-01-02,Silla,Hogar,150,1
+2026-01-02,Escritorio,Hogar,300,1
+2026-01-03,Camisa,Ropa,40,3
+2026-01-03,Zapatos,Ropa,80,2
+2026-01-04,Laptop,Electronica,1000,1
+2026-01-04,Silla,Hogar,150,2
